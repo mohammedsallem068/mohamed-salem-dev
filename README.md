@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mohamed Salem
+#  Hi, I'm Mohamed Salem
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=00C2FF&center=true&vCenter=true&width=600&lines=Front-End+Developer;React+%26+Next.js+Specialist;TypeScript+Enthusiast;Clean+UI+Lover" />
@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 💻 Front-End Developer specialized in **React & Next.js**  
 ⚡ Focused on performance, scalability, and clean UI  
@@ -14,7 +14,7 @@
 
 ---
 
-## 🧠 Tech Stack
+##  Tech Stack
 
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
@@ -48,6 +48,6 @@
 
 ---
 
-## ⚡ Fun Fact
+##  Fun Fact
 
-I enjoy turning complex UI problems into simple and scalable solutions 🚀
+I enjoy turning complex UI problems into simple and scalable solutions 
